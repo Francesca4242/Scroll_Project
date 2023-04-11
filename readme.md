@@ -15,7 +15,7 @@ The tool that loads webp images, or high quality tiff images and displays them n
 
 * The visualisation that this tool provides allows you to scroll through multiple consecutive images.
 
-##Demo Video
+## Demo Video
 
 https://user-images.githubusercontent.com/32270681/231276150-da87f4c8-a20a-40b4-8cc2-f7976dab46d1.mp4
 
