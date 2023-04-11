@@ -1,4 +1,4 @@
-#Scroll Visualiser#
+#Scroll Visualiser
 
 A tool that loads webp images, or high quality tiff images and displays them next to each other. Mapping the original images of the scroll to the unwrapped equivalents with new x,y,z co-ordinates which are displayed on both sides.
 
